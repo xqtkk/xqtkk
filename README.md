@@ -1,5 +1,5 @@
 - 👋 Hi, I’m suusslauaa
-- I’m currently learning Go programming language
+- I’m currently learning Go and Python programming languages
 
 <!---
 suusslauaa/suusslauaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
