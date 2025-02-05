@@ -1,4 +1,4 @@
-- 👋 Hi, I’m suusslauaa
+- 👋 Hi, I’m xqtkk
 - I’m currently learning Go and Python programming languages
 
 <!---
